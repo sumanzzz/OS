@@ -31,7 +31,7 @@ int main(){
 		p[i].tat = p[i].wt + p[i].bt;	
 	}
 	printf("-----------------------------------------------\n");
-	printf("\t\tFSFS Scheduling\n");
+	printf("\t\tFCFS Scheduling\n");
 	printf("-----------------------------------------------\n");
 	printf("PID\tBT\tWT\tTAT\n");
 	printf("-----------------------------------------------\n");
