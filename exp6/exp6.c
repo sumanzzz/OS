@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <sys/wait.h>
+
 
 struct process{
 	int pid;
